@@ -1,0 +1,2 @@
+--Aplicacion usando React Native
+--Calcula el seguro social y educativo 
